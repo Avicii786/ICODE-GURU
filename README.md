@@ -1,1 +1,1 @@
-# icodeguru_courses
+# Icode Guru Courses
