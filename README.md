@@ -7,7 +7,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 You can find link to the videos of the following courses that conducted by Icode Guru.
 
-- Sql for Data Analysis (Stated on 13th September)
+- [Sql for Data Analysis (Stated on 13th September)](#sql)
 - Data Structures and Algorithms
 - Folio Bootcamp (Python)
 - Leetcode Problems with Python
@@ -23,7 +23,7 @@ You can find link to the videos of the following courses that conducted by Icode
 
 
 
-## SQL for DATA ANALYSIS
+## <a id ='sql'>SQL for DATA ANALYSIS </a>
 **Week - 1**
 - [Day - 1 (13 Sep)](https://web.facebook.com/iCodeguru/videos/558039635250390)
 - [Day - 2 (14 Sep)](https://web.facebook.com/iCodeguru/videos/542684460354752)
