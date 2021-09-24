@@ -24,13 +24,15 @@ You can find link to the videos of the following courses that conducted by Icode
 
 ## SQL for DATA ANALYSIS
 **Week - 1**
-1. [Day - 1 (13 Sep)](https://web.facebook.com/iCodeguru/videos/558039635250390)
-2. [Day - 2 (14 Sep)](https://web.facebook.com/iCodeguru/videos/542684460354752)
-3. [Day - 3 (15 Sep)](https://web.facebook.com/iCodeguru/videos/889381791987995)
-4. [Day - 4 (16 Sep)](https://web.facebook.com/iCodeguru/videos/1270650103375202)
-5. [Day - 5 (17 Sep)](https://web.facebook.com/iCodeguru/videos/221133176653707)
+- [Day - 1 (13 Sep)](https://web.facebook.com/iCodeguru/videos/558039635250390)
+- [Day - 2 (14 Sep)](https://web.facebook.com/iCodeguru/videos/542684460354752)
+- [Day - 3 (15 Sep)](https://web.facebook.com/iCodeguru/videos/889381791987995)
+- [Day - 4 (16 Sep)](https://web.facebook.com/iCodeguru/videos/1270650103375202)
+- [Day - 5 (17 Sep)](https://web.facebook.com/iCodeguru/videos/221133176653707)
 
 **Week - 2**
-6. [Day - 6 (20 Sep)](https://web.facebook.com/iCodeguru/videos/1485371488494548)
-7. [Day - 7 (21 Sep)](https://web.facebook.com/iCodeguru/videos/816203635712758)
-
+- [Day - 6 (20 Sep)](https://web.facebook.com/iCodeguru/videos/1485371488494548)
+- [Day - 7 (21 Sep)](https://web.facebook.com/iCodeguru/videos/816203635712758)
+- [Day - 8 (22 Sep)](https://web.facebook.com/iCodeguru/videos/227021412811647)
+- [Day - 9 (23 Sep)](https://web.facebook.com/iCodeguru/videos/193263296126468)
+- [Day - 10 (24 Sep)]()
