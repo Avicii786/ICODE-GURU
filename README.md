@@ -8,7 +8,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 You can find link to the videos of the following courses that conducted by Icode Guru.
 
 - [Sql for Data Analysis (Stated on 13th September)](#sql)
-- Data Structures and Algorithms
+- [Data Structures and Algorithms](#ds)
 - Folio Bootcamp (Python)
 - Leetcode Problems with Python
 - 9PM React Js Practical Guide Session
@@ -23,7 +23,7 @@ You can find link to the videos of the following courses that conducted by Icode
 
 
 
-## <a id ='sql'>SQL for DATA ANALYSIS </a>
+## <a id ='sql'>SQL for DATA ANALYSIS</a>
 **Week - 1**
 - [Day - 1 (13 Sep)](https://web.facebook.com/iCodeguru/videos/558039635250390)
 - [Day - 2 (14 Sep)](https://web.facebook.com/iCodeguru/videos/542684460354752)
@@ -37,3 +37,13 @@ You can find link to the videos of the following courses that conducted by Icode
 - [Day - 8 (22 Sep)](https://web.facebook.com/iCodeguru/videos/227021412811647)
 - [Day - 9 (23 Sep)](https://web.facebook.com/iCodeguru/videos/193263296126468)
 - [Day - 10 (24 Sep)]()
+
+
+
+
+
+
+
+
+## <a id ='ds'>DATA STRUCTURE AND ALGORITHMS</a>
+
