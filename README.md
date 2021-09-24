@@ -30,3 +30,7 @@ You can find link to the videos of the following courses that conducted by Icode
 4. [Day - 4 (16 Sep)](https://web.facebook.com/iCodeguru/videos/1270650103375202)
 5. [Day - 5 (17 Sep)](https://web.facebook.com/iCodeguru/videos/221133176653707)
 
+**Week - 2**
+6. [Day - 6 (20 Sep)](https://web.facebook.com/iCodeguru/videos/1485371488494548)
+7. [Day - 7 (21 Sep)](https://web.facebook.com/iCodeguru/videos/816203635712758)
+
