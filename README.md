@@ -52,11 +52,12 @@ You can find link to the videos of the following courses that conducted by Icode
 ## <a id ='ds'>Folio Bootcamp</a>
 Folio bootcamp by Icode guru consist of three parts. First part has already commenced and second part is in progress. Third part will be conducted once second part is finished.
 
-**#####Part - 1**
+### Part - 1
 Part one of this bootcamp is mainly dedicated to core python. I am not going to insert videos link of that part as you can find plenty of resources on core python on Youtube.
 
-**#####Part - 2**
+### Part - 2
 In phase two of folio bootcamp main agenda will be to study different data structure and algorithms. And then apply that knowledge to solve leedcode problems during class.
+
 **Week - 1**
 - [Day - 1](https://web.facebook.com/iCodeguru/videos/1685529278504243/)
 - [Day - 2](https://web.facebook.com/iCodeguru/videos/2970045216569176/)
