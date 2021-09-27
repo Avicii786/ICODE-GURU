@@ -53,7 +53,7 @@ The course are:
 
 
 
-## <a id ='ds'>Folio Bootcamp</a>
+## <a id ='ds'>FOLIO BOOTCAMP</a>
 Folio bootcamp by Icode guru consist of three parts. First part has already commenced and second part is in progress. Third part will be conducted once second part is finished.
 
 ### Part - 1
