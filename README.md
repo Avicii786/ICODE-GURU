@@ -8,10 +8,9 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 You can find link to the videos of the following courses that conducted by Icode Guru.
 
 - [Sql for Data Analysis (Stated on 13th September)](#sql)
-- [Data Structures and Algorithms](#ds)
-- Folio Bootcamp (Python)
+- [Folio Bootcamp](#ds)
 - Leetcode Problems with Python
-- 9PM React Js Practical Guide Session
+
 
 -----
 
@@ -36,7 +35,10 @@ You can find link to the videos of the following courses that conducted by Icode
 - [Day - 7 (21 Sep)](https://web.facebook.com/iCodeguru/videos/816203635712758)
 - [Day - 8 (22 Sep)](https://web.facebook.com/iCodeguru/videos/227021412811647)
 - [Day - 9 (23 Sep)](https://web.facebook.com/iCodeguru/videos/193263296126468)
-- [Day - 10 (24 Sep)]()
+- [Day - 10 (24 Sep)](https://web.facebook.com/iCodeguru/videos/193263296126468)
+
+**Week - 3**
+- [Day - 11 (27 Sep)](https://web.facebook.com/iCodeguru/videos/244376190957055)
 
 
 
@@ -45,5 +47,20 @@ You can find link to the videos of the following courses that conducted by Icode
 
 
 
-## <a id ='ds'>DATA STRUCTURE AND ALGORITHMS</a>
+
+
+## <a id ='ds'>Folio Bootcamp</a>
+Folio bootcamp by Icode guru consist of three parts. First part has already commenced and second part is in progress. Third part will be conducted once second part is finished.
+
+**#####Part - 1**
+Part one of this bootcamp is mainly dedicated to core python. I am not going to insert videos link of that part as you can find plenty of resources on core python on Youtube.
+
+**#####Part - 2**
+In phase two of folio bootcamp main agenda will be to study different data structure and algorithms. And then apply that knowledge to solve leedcode problems during class.
+**Week - 1**
+- [Day - 1](https://web.facebook.com/iCodeguru/videos/1685529278504243/)
+- [Day - 2](https://web.facebook.com/iCodeguru/videos/2970045216569176/)
+- [Day - 3](https://web.facebook.com/iCodeguru/videos/1923980041098009/)
+- [Day - 4](https://web.facebook.com/iCodeguru/videos/680489270008017/)
+- [Day - 5](https://web.facebook.com/iCodeguru/videos/390945492577673)
 
