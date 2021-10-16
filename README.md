@@ -121,6 +121,4 @@ The course are:
 **Week - 10**
 - [Day - 1](https://fb.watch/8GKzTxOQWp/)
 - [Day - 2](https://fb.watch/8GKcrYuJ-i/)
-- [Day - 3]()
-- [Day - 4]()
-- [Day - 5](https://fb.watch/8GKdAdFXOf/)
+- [Final Day](https://fb.watch/8GKdAdFXOf/)
