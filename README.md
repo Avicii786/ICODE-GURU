@@ -9,8 +9,8 @@ The course are:
 
 ## Table of Contents:
 
-- [Sql for Data Analysis (Stated on 13th September)](#sql)
-- [PRACTICAL REACT JS COURSE](#js)
+- [Sql for Data Analysis](#sql)
+- [React Js Practical Course](#js)
 - Leetcode Problems with Python
 
 
@@ -53,11 +53,11 @@ The course are:
 
 
 
-## <a id ='js'>REACT JS PRACTICAL TRANINGP</a>
+## <a id ='js'>React Js Practical Course</a>
 
 **Week - 1**
-- [Day - 1](https://web.facebook.com/watch/live/?ref=search&v=406642270685501)
-- [Day - 2](https://web.facebook.com/watch/live/?ref=search&v=4104447996336967)
+- [Day - 1](https://fb.watch/8GK8d8yKOG/)
+- [Day - 2](https://fb.watch/8GKfnMNNAz/)
 - [Day - 3](https://fb.watch/8GsOnpv5-J/)
 - [Day - 4](https://fb.watch/8GsohBJFnt/)
 - [Day - 5](https://fb.watch/8GsMqQEYuI/)
@@ -66,19 +66,61 @@ The course are:
 - [Day - 1](https://fb.watch/8GsFSWZu-g/)
 - [Day - 2](https://fb.watch/8GsPrw3FQq/)
 - [Day - 3](https://fb.watch/8GsQ_xnwzc/)
-- [Day - 4]()
+- [Day - 4](https://fb.watch/8GKl30MUrc/)
 - [Day - 5](https://fb.watch/8GsTo99z0v/)
 
 **Week - 3**
 - [Day - 1](https://fb.watch/8GsHBBC_4_/)
-- [Day - 2]()
-- [Day - 3]()
-- [Day - 4]()
-- [Day - 5]()
+- [Day - 2](https://fb.watch/8GKpfjLNgH/)
+- [Day - 3](https://fb.watch/8GKnZGCSl6/)
+- [Day - 4](https://fb.watch/8GKsn-dTPW/)
+- [Day - 5](https://fb.watch/8GKmNkNnuG/)
 
 **Week - 4**
 - [Day - 1]()
 - [Day - 2](https://fb.watch/8GsREW1R-U/)
 - [Day - 3](https://fb.watch/8GsSuZufxg/)
+- [Day - 4](https://fb.watch/8GKoFzP-TG/)
+- [Day - 5](https://fb.watch/8GKm1wiROS/)
+
+**Week - 5**
+- [Day - 1](https://fb.watch/8GKbgMp4wj/)
+- [Day - 2](https://fb.watch/8GKno4H1on/)
+- [Day - 3](https://fb.watch/8GKUo0svaE/)
+- [Day - 4](https://fb.watch/8GKVxetZDO/)
+- [Day - 5](https://fb.watch/8GKqKeUg9C/)
+
+**Week - 6**
+- [Day - 1](https://fb.watch/8GK7DNgLJN/)
+- [Day - 2](https://fb.watch/8GLMLTLiaH/)
+- [Day - 3](https://fb.watch/8GKqnJ6SuT/)
+- [Day - 4](https://fb.watch/8GLr0RcKhI/)
+- [Day - 5](https://fb.watch/8GKsZ92hq4/)
+
+**Week - 7**
+- [Day - 1](https://fb.watch/8GLvqdLxfv/)
+- [Day - 2](https://fb.watch/8GLw1YnK90/)
+- [Day - 3](https://fb.watch/8GKpV6u7C4/)
+- [Day - 4](https://fb.watch/8GKlzwQxJY/)
+- [Day - 5](https://fb.watch/8GKtRny0l-/)
+
+**Week - 8**
+- [Day - 1](https://fb.watch/8GK97OL61z/)
+- [Day - 2](https://fb.watch/8GKgtge_nm/)
+- [Day - 3](https://fb.watch/8GKj7BmCO5/)
+- [Day - 4](https://fb.watch/8GKrIfm6KV/)
+- [Day - 5](https://fb.watch/8GKrc68qaZ/)
+
+**Week - 9**
+- [Day - 1](https://fb.watch/8GK667xXn7/)
+- [Day - 2](https://fb.watch/8GKbNRwkVm/)
+- [Day - 3](https://fb.watch/8GKd1wdkY-/)
+- [Day - 4](https://fb.watch/8GKfYfjrZl/)
+- [Day - 5](https://fb.watch/8GKeBWD0bM/)
+
+**Week - 10**
+- [Day - 1](https://fb.watch/8GKzTxOQWp/)
+- [Day - 2](https://fb.watch/8GKcrYuJ-i/)
+- [Day - 3]()
 - [Day - 4]()
-- [Day - 5]()
+- [Day - 5](https://fb.watch/8GKdAdFXOf/)
