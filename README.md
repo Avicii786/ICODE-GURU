@@ -10,7 +10,7 @@ The course are:
 ## Table of Contents:
 
 - [Sql for Data Analysis (Stated on 13th September)](#sql)
-- [Folio Bootcamp](#ds)
+- [PRACTICAL REACT JS COURSE](#js)
 - Leetcode Problems with Python
 
 
@@ -53,19 +53,32 @@ The course are:
 
 
 
-## <a id ='ds'>FOLIO BOOTCAMP</a>
-Folio bootcamp by Icode guru consist of three parts. First part has already commenced and second part is in progress. Third part will be conducted once second part is finished.
-
-### Part - 1
-Part one of this bootcamp is mainly dedicated to core python. I am not going to insert videos link of that part as you can find plenty of resources on core python on Youtube.
-
-### Part - 2
-In phase two of folio bootcamp main agenda will be to study different data structure and algorithms. And then apply that knowledge to solve leedcode problems during class.
+## <a id ='js'>REACT JS PRACTICAL TRANINGP</a>
 
 **Week - 1**
-- [Day - 1](https://web.facebook.com/iCodeguru/videos/1685529278504243/)
-- [Day - 2](https://web.facebook.com/iCodeguru/videos/2970045216569176/)
-- [Day - 3](https://web.facebook.com/iCodeguru/videos/1923980041098009/)
-- [Day - 4](https://web.facebook.com/iCodeguru/videos/680489270008017/)
-- [Day - 5](https://web.facebook.com/iCodeguru/videos/390945492577673)
+- [Day - 1](https://web.facebook.com/watch/live/?ref=search&v=406642270685501)
+- [Day - 2](https://web.facebook.com/watch/live/?ref=search&v=4104447996336967)
+- [Day - 3](https://fb.watch/8GsOnpv5-J/)
+- [Day - 4](https://fb.watch/8GsohBJFnt/)
+- [Day - 5](https://fb.watch/8GsMqQEYuI/)
 
+**Week - 2**
+- [Day - 1](https://fb.watch/8GsFSWZu-g/)
+- [Day - 2](https://fb.watch/8GsPrw3FQq/)
+- [Day - 3](https://fb.watch/8GsQ_xnwzc/)
+- [Day - 4]()
+- [Day - 5](https://fb.watch/8GsTo99z0v/)
+
+**Week - 3**
+- [Day - 1](https://fb.watch/8GsHBBC_4_/)
+- [Day - 2]()
+- [Day - 3]()
+- [Day - 4]()
+- [Day - 5]()
+
+**Week - 4**
+- [Day - 1]()
+- [Day - 2](https://fb.watch/8GsREW1R-U/)
+- [Day - 3](https://fb.watch/8GsSuZufxg/)
+- [Day - 4]()
+- [Day - 5]()
