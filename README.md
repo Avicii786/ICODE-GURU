@@ -26,7 +26,7 @@ The course are:
 
 ## <a id ='sql'>SQL for DATA ANALYSIS</a>
 **Week - 1**
-- [Day - 1 (13 Sep)](https://web.facebook.com/iCodeguru/videos/558039635250390)
+- [Day - 1 (13 Sep)](https://web.facebook.com/iCodeguru/videos/406642270685501)
 - [Day - 2 (14 Sep)](https://web.facebook.com/iCodeguru/videos/542684460354752)
 - [Day - 3 (15 Sep)](https://web.facebook.com/iCodeguru/videos/889381791987995)
 - [Day - 4 (16 Sep)](https://web.facebook.com/iCodeguru/videos/1270650103375202)
@@ -77,7 +77,7 @@ The course are:
 - [Day - 5](https://fb.watch/8GKmNkNnuG/)
 
 **Week - 4**
-- [Day - 1]()
+- [Day - 1](https://fb.watch/8GK8d8yKOG/)
 - [Day - 2](https://fb.watch/8GsREW1R-U/)
 - [Day - 3](https://fb.watch/8GsSuZufxg/)
 - [Day - 4](https://fb.watch/8GKoFzP-TG/)
