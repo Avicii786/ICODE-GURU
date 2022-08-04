@@ -8,7 +8,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 ## 10 Pm Data Sctrucure and Algorithm
 
 ### Week 1
-[Data Structures and Algorithms Session || Week 1 || Day 1](https://web.facebook.com/iCodeguru/videos/515564140338557)
+- [x] [Data Structures and Algorithms Session || Week 1 || Day 1](https://web.facebook.com/iCodeguru/videos/515564140338557)
 
 [Data Structures and Algorithms Session || Week 1 || Day 2](https://web.facebook.com/iCodeguru/videos/549468186860420)
 
