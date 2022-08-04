@@ -26,9 +26,9 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 [2PM Machine Learning and Computer Vision | Week 1 | Day 2](https://fb.watch/eHnCCtkPwB/)
 
-[2PM Machine Learning and Computer Vision | Week 1 | Day 3]()
+[2PM Machine Learning and Computer Vision | Week 1 | Day 3](https://fb.watch/eHnMeTf4wU/)
 
-[2PM Machine Learning and Computer Vision | Week 1 | Day 4](https://web.facebook.com/iCodeguru/videos/1078215829453870)
+[2PM Machine Learning and Computer Vision | Week 1 | Day 4](https://fb.watch/eHnOM-04Di/)
 
 [2PM Machine Learning and Computer Vision | Week 1 | Day 5](https://web.facebook.com/iCodeguru/videos/5566833566670786)
 
