@@ -9,5 +9,12 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ### Week 1
 [Data Structures and Algorithms Session || Week 1 || Day 1](https://web.facebook.com/iCodeguru/videos/515564140338557)
+
 [Data Structures and Algorithms Session || Week 1 || Day 2](https://web.facebook.com/iCodeguru/videos/549468186860420)
+
 [Data Structures and Algorithms Session || Week 1 || Day 3](https://web.facebook.com/iCodeguru/videos/463612075283799)
+
+
+
+
+## 2PM Machine Learning and Computer Vision
