@@ -30,7 +30,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ### Week1
 
-- [ x ] [2PM Machine Learning and Computer Vision | Week 1 | Day 1](https://web.facebook.com/iCodeguru/videos/1044038579577939)
+- [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 1](https://web.facebook.com/iCodeguru/videos/1044038579577939)
 
 [2PM Machine Learning and Computer Vision | Week 1 | Day 2](https://fb.watch/eHnCCtkPwB/)
 
