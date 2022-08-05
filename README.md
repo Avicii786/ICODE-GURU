@@ -32,26 +32,26 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 1](https://web.facebook.com/iCodeguru/videos/1044038579577939)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 2](https://fb.watch/eHnCCtkPwB/)
+- [ ] [2PM Machine Learning and Computer Vision | Week 1 | Day 2](https://fb.watch/eHnCCtkPwB/)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 3](https://fb.watch/eHnMeTf4wU/)
+- [ ] [2PM Machine Learning and Computer Vision | Week 1 | Day 3](https://fb.watch/eHnMeTf4wU/)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 4](https://fb.watch/eHnOM-04Di/)
+- [ ] [2PM Machine Learning and Computer Vision | Week 1 | Day 4](https://fb.watch/eHnOM-04Di/)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 5](https://web.facebook.com/iCodeguru/videos/5566833566670786)
+- [ ] [2PM Machine Learning and Computer Vision | Week 1 | Day 5](https://web.facebook.com/iCodeguru/videos/5566833566670786)
 
 
 
 ### Week2
 
-- [x] [2PM Machine Learning and Computer Vision | Week 2 | Day 1](https://web.facebook.com/iCodeguru/videos/428904962510625)
+- [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 1](https://web.facebook.com/iCodeguru/videos/428904962510625)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 2 | Day 2](https://web.facebook.com/iCodeguru/videos/1451285668689611)
+- [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 2](https://web.facebook.com/iCodeguru/videos/1451285668689611)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 2 | Day 3](https://web.facebook.com/iCodeguru/videos/5679576968721790)
+- [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 3](https://web.facebook.com/iCodeguru/videos/5679576968721790)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 2 | Day 4](https://web.facebook.com/iCodeguru/videos/629734188290697)
+- [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 4](https://web.facebook.com/iCodeguru/videos/629734188290697)
 
-- [x] [2PM Machine Learning and Computer Vision | Week 2 | Day 5](https://fb.watch/eITchmccGp/)
+- [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 5](https://fb.watch/eITchmccGp/)
 
 
