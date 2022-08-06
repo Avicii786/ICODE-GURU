@@ -57,3 +57,24 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 5](https://fb.watch/eITchmccGp/)
 
 
+
+--------------------------------------------------
+-------------------------------------------------
+
+
+
+## 11AM IELTS Preparation 
+
+### Week 1
+
+- [ ] [IELTS Preparation| Week 1 | Day 1](https://fb.watch/eJH1KNoHhK/)
+
+- [ ] [IELTS Preparation| Week 1 | Day 2](https://fb.watch/eJH6buMzGl/)
+
+- [ ] [IELTS Preparation| Week 1 | Day 3](https://fb.watch/eJH7TjBI9L/)
+
+- [ ] [IELTS Preparation| Week 1 | Day 4]()
+
+- [ ] [IELTS Preparation| Week 1 | Day 5](https://fb.watch/eJHa5siB32/)
+
+
