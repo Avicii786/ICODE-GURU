@@ -19,6 +19,14 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [Data Structures and Algorithms Session || Week 1 || Day 5](https://fb.watch/eJGy8UDKNB/)
 
 
+### Week 2
+- [x] [Day 1 has been skipped due to Muharram vacations]()
+
+- [x] [Day 2 has been skipped due to Muharram vacations]()
+
+- [ ] [Data Structures and Algorithms Session || Week 2 || Day 3](https://fb.watch/eQ_0bUUhyT/)
+
+
 
 
 ------------------------------------------------------
@@ -55,6 +63,13 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 4](https://web.facebook.com/iCodeguru/videos/629734188290697)
 
 - [ ] [2PM Machine Learning and Computer Vision | Week 2 | Day 5](https://fb.watch/eITchmccGp/)
+
+
+
+### Week3
+- [x] [Day 1 has been skipped due to vacations]()
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 2](https://fb.watch/eQZOlIZAwi/)
 
 
 
