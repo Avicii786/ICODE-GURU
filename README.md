@@ -22,7 +22,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 ### Week 2
 - [x] [Day 1 has been skipped due to Muharram vacations]()
 
-- [x] [Day 2 has been skipped due to Muharram vacations]()
+- [ ] [Data Structures and Algorithms Session || Week 2 || Day 2](https://fb.watch/eUmzKqJxS_/)
 
 - [ ] [Data Structures and Algorithms Session || Week 2 || Day 3](https://fb.watch/eQ_0bUUhyT/)
 
@@ -70,6 +70,8 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [x] [Day 1 has been skipped due to vacations]()
 
 - [ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 2](https://fb.watch/eQZOlIZAwi/)
+
+-[ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 3](https://fb.watch/eUmMPjSH4H/) 
 
 
 
