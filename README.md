@@ -52,7 +52,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 2](https://fb.watch/eHnCCtkPwB/)
 
-- [ ] [2PM Machine Learning and Computer Vision | Week 1 | Day 3](https://fb.watch/eHnMeTf4wU/)
+- [x] [2PM Machine Learning and Computer Vision | Week 1 | Day 3](https://fb.watch/eHnMeTf4wU/)
 
 - [ ] [2PM Machine Learning and Computer Vision | Week 1 | Day 4](https://fb.watch/eHnOM-04Di/)
 
@@ -100,20 +100,6 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 -------------------------------------------------
 
 
-
-## Meta Hacker Cup 2022
-
-### Week 1
-
-- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 1](https://fb.watch/eZtBmrKQfN/)
-
-- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 2](https://fb.watch/eZtAdrmTQM/)
-
-- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 3](https://fb.watch/eZtyXsUWSa/)
-
-- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 4]()
-
-- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 5]()
 
 
 
