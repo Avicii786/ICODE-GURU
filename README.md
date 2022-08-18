@@ -27,6 +27,14 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [Data Structures and Algorithms Session || Week 2 || Day 3](https://fb.watch/eQ_0bUUhyT/)
 
 
+### Week 3
+- [ ] [Data Structures and Algorithms Session || Week 3 || Day 1](https://fb.watch/eZtmnlafoM/)
+
+- [ ] [Data Structures and Algorithms Session || Week 3 || Day 2](https://fb.watch/eZtl2PBfti/)
+
+- [ ] [Data Structures and Algorithms Session || Week 3 || Day 3](https://fb.watch/eZthpNOP_k/)
+
+
 
 
 ------------------------------------------------------
@@ -74,24 +82,39 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 -[ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 3](https://fb.watch/eUmMPjSH4H/) 
 
 
+### Week 4
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 1](https://fb.watch/eZtrE2nUnK/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 2](https://fb.watch/eZtsOUUHtt/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 3](https://fb.watch/eZttFQyAp2/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 4]()
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 5]()
+
+
 
 --------------------------------------------------
 -------------------------------------------------
 
 
 
-## 11AM IELTS Preparation 
+## Meta Hacker Cup 2022
 
 ### Week 1
 
-- [ ] [IELTS Preparation| Week 1 | Day 1](https://fb.watch/eJH1KNoHhK/)
+- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 1](https://fb.watch/eZtBmrKQfN/)
 
-- [ ] [IELTS Preparation| Week 1 | Day 2](https://fb.watch/eJH6buMzGl/)
+- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 2](https://fb.watch/eZtAdrmTQM/)
 
-- [ ] [IELTS Preparation| Week 1 | Day 3](https://fb.watch/eJH7TjBI9L/)
+- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 3](https://fb.watch/eZtyXsUWSa/)
 
-- [ ] [IELTS Preparation| Week 1 | Day 4]()
+- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 4]()
 
-- [ ] [IELTS Preparation| Week 1 | Day 5](https://fb.watch/eJHa5siB32/)
+- [ ] [Meta Hacker Cup 2022 | Week 1 | Day 5]()
+
+
 
 
