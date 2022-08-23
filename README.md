@@ -34,7 +34,14 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [ ] [Data Structures and Algorithms Session || Week 3 || Day 3](https://fb.watch/eZthpNOP_k/)
 
+- [ ] [Data Structures and Algorithms Session || Week 3 || Day 4](https://fb.watch/f4aiNYM_8R/)
 
+- [ ] [Data Structures and Algorithms Session || Week 3 || Day 5](https://fb.watch/f4ae5nizHf/)
+
+
+### Week 4
+
+- [ ] [Data Structures and Algorithms Session || Week 4 || Day 1](https://fb.watch/f4a57Loo1d/)
 
 
 ------------------------------------------------------
@@ -90,14 +97,29 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 3](https://fb.watch/eZttFQyAp2/)
 
-- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 4]()
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 4](https://fb.watch/f4ajEpZY30/)
 
-- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 5]()
+- [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 5](https://fb.watch/f4ahNGxcvG/)
+
+
+
+## Week 5
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 5 | Day 1](https://fb.watch/f4ack30u8V/)
+
+
 
 
 
 --------------------------------------------------
 -------------------------------------------------
+
+
+## 9PM IELTS Preparation
+
+### Week 1
+
+- [ ] [9PM IELTS Preparation | Week 1 | Day 1](https://fb.watch/f4a5YnDTU2/)
 
 
 
