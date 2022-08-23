@@ -86,7 +86,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 2](https://fb.watch/eQZOlIZAwi/)
 
--[ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 3](https://fb.watch/eUmMPjSH4H/) 
+- [ ] [2PM Machine Learning and Computer Vision | Week 3 | Day 3](https://fb.watch/eUmMPjSH4H/) 
 
 
 ### Week 4
@@ -102,10 +102,9 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [2PM Machine Learning and Computer Vision | Week 4 | Day 5](https://fb.watch/f4ahNGxcvG/)
 
 
-
 ## Week 5
 
-- [ ] [2PM Machine Learning and Computer Vision | Week 5 | Day 1](https://fb.watch/f4ack30u8V/)
+- [] [2PM Machine Learning and Computer Vision | Week 5 | Day 1](https://fb.watch/f4ack30u8V/)
 
 
 
@@ -119,7 +118,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ### Week 1
 
-- [ ] [9PM IELTS Preparation | Week 1 | Day 1](https://fb.watch/f4a5YnDTU2/)
+- [x] [9PM IELTS Preparation | Week 1 | Day 1](https://fb.watch/f4a5YnDTU2/)
 
 
 
