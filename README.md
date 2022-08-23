@@ -104,7 +104,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ## Week 5
 
-- [] [2PM Machine Learning and Computer Vision | Week 5 | Day 1](https://fb.watch/f4ack30u8V/)
+- [ ] [2PM Machine Learning and Computer Vision | Week 5 | Day 1](https://fb.watch/f4ack30u8V/)
 
 
 
