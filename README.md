@@ -138,11 +138,11 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [x] [9PM IELTS Preparation | Week 1 | Day 2](https://fb.watch/f9U-SFxC3A/)
 
-- [x] [9PM IELTS Preparation | Week 1 | Day 3](https://fb.watch/f9UZapKG_W/)
+- [ ] [9PM IELTS Preparation | Week 1 | Day 3](https://fb.watch/f9UZapKG_W/)
 
-- [x] [9PM IELTS Preparation | Week 1 | Day 4](https://fb.watch/f9UWxC1icl/)
+- [ ] [9PM IELTS Preparation | Week 1 | Day 4](https://fb.watch/f9UWxC1icl/)
 
-- [x] [9PM IELTS Preparation | Week 1 | Day 5](https://fb.watch/f9UPOuW1uT/)
+- [ ] [9PM IELTS Preparation | Week 1 | Day 5](https://fb.watch/f9UPOuW1uT/)
 
 
 
