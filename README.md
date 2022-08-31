@@ -14,7 +14,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [x] [Data Structures and Algorithms Session || Week 1 || Day 3](https://web.facebook.com/iCodeguru/videos/463612075283799)
 
-- [ ] [Data Structures and Algorithms Session || Week 1 || Day 4](https://fb.watch/eIrJ7AgpjV/)
+- [x] [Data Structures and Algorithms Session || Week 1 || Day 4](https://fb.watch/eIrJ7AgpjV/)
 
 - [ ] [Data Structures and Algorithms Session || Week 1 || Day 5](https://fb.watch/eJGy8UDKNB/)
 
