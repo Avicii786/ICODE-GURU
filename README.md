@@ -192,7 +192,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ## Week 1
 
-- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 1 | Day 1](https://fb.watch/fiYF1CCXDt/)
+- [x] [11AM Sat-Sun Data Analysis with SQL | Week 1 | Day 1](https://fb.watch/fiYF1CCXDt/)
 
 - [ ] [11AM Sat-Sun Data Analysis with SQL | Week 1 | Day 2](https://fb.watch/fiYKjtNfq9/)
 
