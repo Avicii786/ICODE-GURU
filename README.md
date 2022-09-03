@@ -52,6 +52,11 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [Data Structures and Algorithms Session || Week 4 || Day 5](https://fb.watch/f9UOIaJw2L/)
 
 
+### Week 5
+
+
+
+
 ------------------------------------------------------
 -----------------------------------------------------
 
@@ -145,6 +150,68 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [9PM IELTS Preparation | Week 1 | Day 5](https://fb.watch/f9UPOuW1uT/)
 
 
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+## 11AM Sat-Sun Data Analysis with SQL (Start from 2 July) 
+
+## Week 1
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 1 | Day 1](https://fb.watch/fiYF1CCXDt/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 1 | Day 2](https://fb.watch/fiYKjtNfq9/)
+
+
+## Week 2
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 2 | Day 1](https://fb.watch/fiYR6KV2yK/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 2 | Day 2](https://fb.watch/fiYWlPZrfg/)
+
+
+
+## Week 3
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 3 | Day 1](https://fb.watch/fiYOL4wj4K/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 3 | Day 2](https://fb.watch/fiYSrrqrCb/)
+
+
+
+## Week 4
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 4 | Day 1](https://fb.watch/fiZ6iBzcSo/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 4 | Day 2](https://fb.watch/fiZ4JcdmPN/)
+
+
+## Week 5
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 5 | Day 1](https://fb.watch/fiZsXINIM6/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 5 | Day 2](https://fb.watch/fiZ7PONs2L/)
+
+
+## Week 6
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 6 | Day 1](https://fb.watch/fiZ8Gbodh-/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 6 | Day 2](https://fb.watch/fiZfp-RlUd/)
+
+
+## Week 7
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 7 | Day 1](https://fb.watch/fiZjzqoOk9/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 7 | Day 2](https://fb.watch/fiZbUvm8Oi/)
+
+
+## Week 8
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 8 | Day 1](https://fb.watch/fiZmxENjoC/)
+
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 8 | Day 2]()
 
 
 
