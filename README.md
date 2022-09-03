@@ -54,6 +54,15 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ### Week 5
 
+- [ ] [Data Structures and Algorithms Session || Week 5 || Day 1](https://fb.watch/fiZDDe_pLx/)
+
+- [ ] [Data Structures and Algorithms Session || Week 5 || Day 2](https://fb.watch/fiZCuRyFpW/)
+
+- [ ] [Data Structures and Algorithms Session || Week 5 || Day 3](https://fb.watch/fiZBy0-1aW/)
+
+- [ ] [Data Structures and Algorithms Session || Week 5 || Day 4](https://fb.watch/fiZAiPnI7N/)
+
+- [ ] [Data Structures and Algorithms Session || Week 5 || Day 5](https://fb.watch/fiZzfW998x/)
 
 
 
@@ -128,6 +137,18 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [2PM Machine Learning and Computer Vision | Week 5 | Day 5](https://fb.watch/f9USXZk5MX/)
 
 
+## Week 6
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 6 | Day 1](https://fb.watch/fiZImV8wVm/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 6 | Day 2](https://fb.watch/fiZJwujwyR/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 6 | Day 3](https://fb.watch/fiZKvtYnpY/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 6 | Day 4](https://fb.watch/fiZLsgp_T8/)
+
+- [ ] [2PM Machine Learning and Computer Vision | Week 6 | Day 5]()
+
 
 
 
@@ -148,6 +169,19 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [9PM IELTS Preparation | Week 1 | Day 4](https://fb.watch/f9UWxC1icl/)
 
 - [ ] [9PM IELTS Preparation | Week 1 | Day 5](https://fb.watch/f9UPOuW1uT/)
+
+
+### Week 2
+
+- [x] [9PM IELTS Preparation | Week 2 | Day 1](https://fb.watch/fiZ_jJy-3N/)
+
+- [ ] [9PM IELTS Preparation | Week 2 | Day 2](https://fb.watch/fiZZhgPaXY/)
+
+- [ ] [9PM IELTS Preparation | Week 2 | Day 3](https://fb.watch/fiZY2ar96J/)
+
+- [ ] [9PM IELTS Preparation | Week 2 | Day 4](https://fb.watch/fiZWRB14xa/)
+
+- [ ] [9PM IELTS Preparation | Week 2 | Day 5](https://fb.watch/fiZVV0JfuR/)
 
 
 -----------------------------------------------------------------------------------------------
