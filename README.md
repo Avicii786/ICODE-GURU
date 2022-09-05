@@ -245,7 +245,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [ ] [11AM Sat-Sun Data Analysis with SQL | Week 8 | Day 1](https://fb.watch/fiZmxENjoC/)
 
-- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 8 | Day 2]()
+- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 8 | Day 2](https://fb.watch/flfLiuqPQE/)
 
 
 
