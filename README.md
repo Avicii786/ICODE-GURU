@@ -65,9 +65,49 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [Data Structures and Algorithms Session || Week 5 || Day 5](https://fb.watch/fiZzfW998x/)
 
 
+### Week 6
+- [ ] [Data Structure and Algorithms || Week 6 || Day 1](https://fb.watch/fxhGk_nOCz/)
+
+- [ ] [Data Structure and Algorithms || Week 6 || Day 2](https://fb.watch/fxhNiwJ0z0/)
+
+- [ ] [Data Structure and Algorithms || Week 6 || Day 3](https://fb.watch/fxhOi9sAYV/)
+
+- [ ] [Data Structure and Algorithms || Week 6 || Day 4](https://fb.watch/fxhPeMUCE3/)
+
+- [ ] [Data Structure and Algorithms || Week 6 || Day 5](https://fb.watch/fxhQicsR78/)
+
+
+
 
 ------------------------------------------------------
 -----------------------------------------------------
+
+## 10 Pm  Advance Data Sctrucure and Algorithm
+
+## Week 1
+
+
+- [ ] [Advance Data Structures and Algorithms Session || Week 1 || Day 1](https://fb.watch/fxifuKKs75/)
+
+- [ ] [Advance Data Structures and Algorithms Session || Week 1 || Day 2](https://fb.watch/fxidWwVTnX/)
+
+- [ ] [Advance Data Structures and Algorithms Session || Week 1 || Day 3]
+
+- [ ] [Advance Data Structures and Algorithms Session || Week 1 || Day 4]
+
+- [ ] [Advance Data Structures and Algorithms Session || Week 1 || Day 5]
+
+
+
+
+
+
+
+--------------------------------------------------
+-------------------------------------------------
+
+
+
 
 
 
@@ -152,8 +192,12 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 
 
+
+
+
+
+---------------------------------------------------
 --------------------------------------------------
--------------------------------------------------
 
 
 ## 9PM IELTS Preparation
@@ -173,7 +217,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ### Week 2
 
-- [x] [9PM IELTS Preparation | Week 2 | Day 1](https://fb.watch/fiZ_jJy-3N/)
+- [ ] [9PM IELTS Preparation | Week 2 | Day 1](https://fb.watch/fiZ_jJy-3N/)
 
 - [ ] [9PM IELTS Preparation | Week 2 | Day 2](https://fb.watch/fiZZhgPaXY/)
 
@@ -182,6 +226,33 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 - [ ] [9PM IELTS Preparation | Week 2 | Day 4](https://fb.watch/fiZWRB14xa/)
 
 - [ ] [9PM IELTS Preparation | Week 2 | Day 5](https://fb.watch/fiZVV0JfuR/)
+
+
+### Week 3
+
+- [ ] [9PM IELTS Preparation | Week 3 | Day 1](https://fb.watch/fxhZ5tBI1s/)
+
+- [ ] [9PM IELTS Preparation | Week 3 | Day 2](https://fb.watch/fxhY0riK-5/)
+
+- [ ] [9PM IELTS Preparation | Week 3 | Day 3]
+
+- [ ] [9PM IELTS Preparation | Week 3 | Day 4](https://fb.watch/fxhWctmR0e/)
+
+- [ ] [9PM IELTS Preparation | Week 3 | Day 5](https://fb.watch/fxh-MCnUt0/)
+
+
+### Week 4
+
+- [ ] [9PM IELTS Preparation | Week 4 | Day 1](https://fb.watch/fxi43LmDKN/)
+
+- [ ] [9PM IELTS Preparation | Week 4 | Day 2](https://fb.watch/fxi6y7lKwG/)
+
+- [ ] [9PM IELTS Preparation | Week 4 | Day 3]
+
+- [ ] [9PM IELTS Preparation | Week 4 | Day 4]
+
+- [ ] [9PM IELTS Preparation | Week 4 | Day 5]
+
 
 
 -----------------------------------------------------------------------------------------------
