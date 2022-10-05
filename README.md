@@ -286,7 +286,7 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 ## Week 4
 
-- [ ] [11AM Sat-Sun Data Analysis with SQL | Week 4 | Day 1](https://web.facebook.com/iCodeguru/videos/1223907285011223)
+- [x] [11AM Sat-Sun Data Analysis with SQL | Week 4 | Day 1](https://web.facebook.com/iCodeguru/videos/1223907285011223)
 
 - [ ] [11AM Sat-Sun Data Analysis with SQL | Week 4 | Day 2](https://web.facebook.com/iCodeguru/videos/1179398502915068)
 
