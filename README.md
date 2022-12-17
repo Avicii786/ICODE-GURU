@@ -112,7 +112,17 @@ Icode Guru provides different kind of Ict courses aiming to train students for f
 
 - [ ] [week 1 class 2](https://fb.watch/hiB2p_n1ka/)
 - [ ] [week 1 class 3](https://fb.watch/hiBaDfOPm4/)
+- [ ] [week 1 class 4](https://fb.watch/htcpnvy__6/)
+- [ ] [week 1 class 5](https://fb.watch/htcihH11ls/)
 
+
+### Week 2
+
+- [ ] [week 2 class 1](https://fb.watch/htcg8nQUlN/)
+- [ ] [week 2 class 2](https://fb.watch/htcflt90g3/)
+- [ ] [week 2 class 3](https://fb.watch/htcetF1AOT/)
+- [ ] [week 2 class 4](https://fb.watch/htcdwZN6vq/)
+- [ ] [week 2 class 5](https://fb.watch/htc614S2qg/)
 
 
 -----------------------------------------------------------------------------------------------
